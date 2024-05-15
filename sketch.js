@@ -7,7 +7,7 @@ function setup() {
 }
 
 function palavraAleatoria(){
-  let palavras = ["duda", "é", "linda"];
+  let palavras = ["alura", "é", "aluno"];
   return random(palavras);
 }
 
